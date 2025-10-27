@@ -13,6 +13,13 @@ This project explores different methods to **reduce features**, **evaluate predi
   - `pca_latent.csv` containing reduced features (`PC1..PCk`) + target
   - `pca_scree.png` showing explained variance across components  
 
+#### Run PCA Feature Reduction
+
+**Default (uses paths & dataset split ratio from `config.py`):**
+```
+main.py --model pca_model
+```
+
 ---
 
 ### 2. Dense Autoencoder (DenseAE)
@@ -21,6 +28,13 @@ This project explores different methods to **reduce features**, **evaluate predi
 - Produces:
   - `dense_latent.csv` containing latent features (`latent_0..latent_n`) + target  
   - Saved models: `dense_autoencoder.h5`, `dense_encoder.h5`  
+
+#### Run Dense Autoencoder Feature Reduction
+
+**Default (uses paths & dataset split ratio from `config.py`):**
+```
+main.py --model pca_model
+```
 
 ---
 
