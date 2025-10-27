@@ -183,4 +183,22 @@ python -m interpretability.shap_ae --model_path output/dense_autoencoder.h5
 - Improved model efficiency: less input data → faster training/inference, lower memory and computational demands.  
 - Enhanced interpretability and trust in model decisions, which is critical for industrial applications and deployment in sensor systems.  
 
+---
 
+## 👩‍💻 Author
+
+**Shweta Bambal**  
+Research Assistant at OVGU, Magdeburg
+Data Scientist | AI/ML Developer
+
+📧 Email: shwetabambal18@gmail.com  
+
+🔗 [LinkedIn](https://www.linkedin.com/in/shweta-bambal) | [GitHub](https://github.com/shweta27407)
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+
+---
