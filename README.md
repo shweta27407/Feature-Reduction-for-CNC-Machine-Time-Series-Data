@@ -1,4 +1,4 @@
-# Feature Reduction in CNC Machine Time-Series Data
+# Feature Reduction using Deep Learning Methods in Time-Series Data
 
 This project explores different methods to **reduce features**, **evaluate predictive power**, and **interpret model outputs** on CNC machine time-series data.  
 
