@@ -188,8 +188,7 @@ python -m interpretability.shap_ae --model_path output/dense_autoencoder.h5
 ## 👩‍💻 Author
 
 **Shweta Bambal**  
-Research Assistant at OVGU, Magdeburg
-Data Scientist | AI/ML Developer
+Research Assistant (DS/ML) at OVGU, Magdeburg
 
 📧 Email: shwetabambal18@gmail.com  
 
